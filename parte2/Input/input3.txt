@@ -1,0 +1,7 @@
+Titulo: The Prestige
+Duracion: 2h 10min
+Puntuacion: 8.5
+Actores principales: Hugh Jackman, Christian Bale
+Fecha de lanzamiento: 20 de octubre de 2006
+Sinopsis: Dos magos rivales compiten por crear el mejor truco de magia, lo que lleva a consecuencias mortales y obsesiones peligrosas.
+

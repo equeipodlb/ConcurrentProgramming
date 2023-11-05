@@ -1,0 +1,21 @@
+Titulo: The Departed
+Duracion: 2h 31min
+Puntuacion: 8.5
+Actores principales: Leonardo DiCaprio, Matt Damon
+Fecha de lanzamiento: 6 de octubre de 2006
+Sinopsis: Un joven policía encubierto intenta desmantelar una peligrosa organización de crimen mientras que un miembro de la pandilla intenta exponer al infiltrado.
+
+Titulo: Inception
+Duracion: 2h 28min
+Puntuacion: 8.8
+Actores principales: Leonardo DiCaprio, Joseph Gordon-Levitt
+Fecha de lanzamiento: 16 de julio de 2010
+Sinopsis: Un ladrón de ideas entra en los sueños de los demás para extraer información valiosa, pero su última misión requiere que plante una idea en vez de robarla.
+
+Titulo: Fight Club
+Duracion: 2h 19min
+Puntuacion: 8.8
+Actores principales: Brad Pitt, Edward Norton
+Fecha de lanzamiento: 15 de octubre de 1999
+Sinopsis: Un hombre deprimido se une a un enigmático hombre carismático y juntos fundan un club secreto de peleas subterráneas que tienen un impacto profundo en sus vidas.
+

@@ -1,0 +1,35 @@
+Titulo: The Shawshank Redemption
+Duracion: 2h 22min
+Puntuacion: 9.3
+Actores principales: Tim Robbins, Morgan Freeman
+Fecha de lanzamiento: 14 de octubre de 1994
+Sinopsis: Un hombre inocente es enviado a una prision de maxima seguridad por el asesinato de su esposa. Alli conoce a un veterano recluso que le ayuda a adaptarse a la vida en la carcel y juntos planean una fuga.
+
+Titulo: The Godfather
+Duracion: 2h 55min
+Puntuacion: 9.2
+Actores principales: Marlon Brando, Al Pacino
+Fecha de lanzamiento: 24 de marzo de 1972
+Sinopsis: El patriarca de una familia mafiosa en Nueva York trata de transferir su poder a su hijo menor, mientras que un mafioso rival intenta frustrar sus planes.
+
+Titulo: The Dark Knight
+Duracion: 2h 32min
+Puntuacion: 9.0
+Actores principales: Christian Bale, Heath Ledger
+Fecha de lanzamiento: 18 de julio de 2008
+Sinopsis: Batman se enfrenta al Joker, un peligroso criminal que amenaza con destruir la ciudad de Gotham.
+
+Titulo: Forrest Gump
+Duracion: 2h 22min
+Puntuacion: 8.8
+Actores principales: Tom Hanks, Robin Wright
+Fecha de lanzamiento: 6 de julio de 1994
+Sinopsis: Forrest Gump, un hombre con discapacidad intelectual, se convierte en testigo y protagonista de algunos de los momentos mas importantes de la historia reciente de Estados Unidos.
+
+Titulo: The Matrix
+Duracion: 2h 16min
+Puntuacion: 8.7
+Actores principales: Keanu Reeves, Laurence Fishburne
+Fecha de lanzamiento: 31 de marzo de 1999
+Sinopsis: Thomas Anderson, un programador de computadoras, descubre que la realidad que cree conocer es una simulacion generada por una inteligencia artificial.
+

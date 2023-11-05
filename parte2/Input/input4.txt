@@ -1,0 +1,14 @@
+Titulo: Goodfellas
+Duracion: 2h 26min
+Puntuacion: 8.7
+Actores principales: Robert De Niro, Ray Liotta
+Fecha de lanzamiento: 19 de septiembre de 1990
+Sinopsis: Henry Hill, un joven ambicioso, se adentra en el mundo del crimen organizado y comienza a trabajar para la familia mafiosa de Nueva York. Pronto se convierte en uno de los miembros más importantes de la organización, pero su lealtad será puesta a prueba cuando el FBI comienza a investigar a la familia.
+
+Titulo: The Usual Suspects
+Duracion: 1h 46min
+Puntuacion: 8.5
+Actores principales: Kevin Spacey, Gabriel Byrne
+Fecha de lanzamiento: 16 de agosto de 1995
+Sinopsis: Después de un robo violento, cinco hombres son interrogados por la policía y las historias que cuentan se entrelazan para formar una narrativa intrigante.
+
